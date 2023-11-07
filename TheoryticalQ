@@ -1,0 +1,4 @@
+(2) -> 1
+(3) ->3
+(4)->3
+(5)->NO because we can't store directly a number in a pointer.
